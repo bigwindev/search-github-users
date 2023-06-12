@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GitHub Users</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="search_fragment_label">Search GitHub Users</string>
+    <string name="users_fragment_label">GitHub Users</string>
+    <string name="profile_fragment_label">Profile</string>
+
+    <string name="searchbar_hint">Search GitHub Users</string>
+    <string name="clear_action_title">Clear</string>
+    <string name="recent_searches">Recent Searches</string>
+    <string name="not_found">Not Found</string>
+</resources>
